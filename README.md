@@ -1,5 +1,7 @@
 # IT TERMS
 
+Series độc quyền về các thuật ngữ trong it
+
 ## Thuật ngữ theo thứ tự
 
 | Bài viết | Link           |
