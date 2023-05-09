@@ -16,4 +16,4 @@
 
 ## 3. API
 
-- Application Programming Interface, là danh sách các chức năng, dòng lệnh có sẵn mà ta có thể sử dụng
+- **Application Programming Interface ==>** một tập hợp các quy tắc, giao thức và công cụ cho phép các ứng dụng phần mềm khác nhau có thể tương tác và giao tiếp với nhau 
